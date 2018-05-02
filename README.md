@@ -7,7 +7,7 @@ mats = eqps = obras = subs = 0
 ```
 
 
-## Icrementamos 1
+## Incrementamos 1
 ```
 mats += 1
 ```
