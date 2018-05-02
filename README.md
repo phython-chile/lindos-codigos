@@ -1,2 +1,2 @@
 # lindos-codigos
-Lindos Códigos
+mats = eqps = obras = subs = 0
